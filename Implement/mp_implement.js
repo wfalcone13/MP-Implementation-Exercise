@@ -45,9 +45,15 @@ function logEvent(){
 
 
 function seach(){
+    //log MP logEvent with Search
     console.log("not setup")
 
 }
+
+
+// The following functions deal with the MP Ecommerce API
+// In order to leverage the below functions properly, you 
+// will need to create a product, and a cart 
 
 
 function impression(){
