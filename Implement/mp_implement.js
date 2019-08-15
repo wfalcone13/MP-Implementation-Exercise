@@ -53,7 +53,8 @@ function seach(){
 
 // The following functions deal with the MP Ecommerce API
 // In order to leverage the below functions properly, you 
-// will need to create a product, and a cart 
+// will need to create a product, a cart, etc. 
+//  https://docs.mparticle.com/developers/sdk/web/commerce-tracking/#tracking-basic-purchases
 
 
 function impression(){
